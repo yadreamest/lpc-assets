@@ -1,0 +1,172 @@
+[
+  {
+    "source": "lite-religious/hero/loop-purple.webp",
+    "path": "yasmina-bundle/images/loop-purple.webp",
+    "bytes": 185656
+  },
+  {
+    "source": "ds/pdp/lite/story-purple.webp",
+    "path": "yasmina-bundle/images/story-purple.webp",
+    "bytes": 217022
+  },
+  {
+    "source": "ds/pdp/lite/homework-r4b-purple.webp",
+    "path": "yasmina-bundle/images/homework-r4b-purple.webp",
+    "bytes": 192652
+  },
+  {
+    "source": "ds/pdp/lite/quiet-purple.webp",
+    "path": "yasmina-bundle/images/quiet-purple.webp",
+    "bytes": 107628
+  },
+  {
+    "source": "ds/photos/plus/hero/bg-desktop-en-3.webp",
+    "path": "yasmina-bundle/images/bg-desktop-en-3.webp",
+    "bytes": 33586
+  },
+  {
+    "source": "ds/photos/plus/hero/obj-yango-2.webp",
+    "path": "yasmina-bundle/images/obj-yango-2.webp",
+    "bytes": 14736
+  },
+  {
+    "source": "ds/photos/plus/hero/obj-play-2.webp",
+    "path": "yasmina-bundle/images/obj-play-2.webp",
+    "bytes": 13504
+  },
+  {
+    "source": "ds/photos/plus/hero/obj-music-2.webp",
+    "path": "yasmina-bundle/images/obj-music-2.webp",
+    "bytes": 18572
+  },
+  {
+    "source": "ds/pdp/lite/exploded-figma.webp",
+    "path": "yasmina-bundle/images/exploded-figma.webp",
+    "bytes": 282672
+  },
+  {
+    "source": "ds/pdp/lite/angles-r4-purple.webp",
+    "path": "yasmina-bundle/images/angles-r4-purple.webp",
+    "bytes": 46812
+  },
+  {
+    "source": "lite/ugc/ugc-01.webp",
+    "path": "yasmina-bundle/images/ugc-01.webp",
+    "bytes": 26960
+  },
+  {
+    "source": "lite/ugc/ugc-01.webm",
+    "path": "yasmina-bundle/video/ugc-01.webm",
+    "bytes": 2328786
+  },
+  {
+    "source": "lite/ugc/ugc-02.webp",
+    "path": "yasmina-bundle/images/ugc-02.webp",
+    "bytes": 42394
+  },
+  {
+    "source": "lite/ugc/ugc-02.webm",
+    "path": "yasmina-bundle/video/ugc-02.webm",
+    "bytes": 1103844
+  },
+  {
+    "source": "lite/ugc/ugc-03.webp",
+    "path": "yasmina-bundle/images/ugc-03.webp",
+    "bytes": 68856
+  },
+  {
+    "source": "lite/ugc/ugc-03.webm",
+    "path": "yasmina-bundle/video/ugc-03.webm",
+    "bytes": 9755015
+  },
+  {
+    "source": "lite/ugc/ugc-04.webp",
+    "path": "yasmina-bundle/images/ugc-04.webp",
+    "bytes": 31380
+  },
+  {
+    "source": "lite/ugc/ugc-04.webm",
+    "path": "yasmina-bundle/video/ugc-04.webm",
+    "bytes": 3965568
+  },
+  {
+    "source": "audio/voice/en/1.mp3",
+    "path": "yasmina-bundle/audio/voice/en/1.mp3",
+    "bytes": 36765
+  },
+  {
+    "source": "audio/voice/ar/1.mp3",
+    "path": "yasmina-bundle/audio/voice/ar/1.mp3",
+    "bytes": 40125
+  },
+  {
+    "source": "audio/voice/en/2.mp3",
+    "path": "yasmina-bundle/audio/voice/en/2.mp3",
+    "bytes": 18933
+  },
+  {
+    "source": "audio/voice/ar/2.mp3",
+    "path": "yasmina-bundle/audio/voice/ar/2.mp3",
+    "bytes": 19413
+  },
+  {
+    "source": "audio/voice/en/3.mp3",
+    "path": "yasmina-bundle/audio/voice/en/3.mp3",
+    "bytes": 56805
+  },
+  {
+    "source": "audio/voice/ar/3.mp3",
+    "path": "yasmina-bundle/audio/voice/ar/3.mp3",
+    "bytes": 59805
+  },
+  {
+    "source": "audio/voice/en/4.mp3",
+    "path": "yasmina-bundle/audio/voice/en/4.mp3",
+    "bytes": 38925
+  },
+  {
+    "source": "audio/voice/ar/4.mp3",
+    "path": "yasmina-bundle/audio/voice/ar/4.mp3",
+    "bytes": 30693
+  },
+  {
+    "source": "audio/voice/en/5.mp3",
+    "path": "yasmina-bundle/audio/voice/en/5.mp3",
+    "bytes": 20445
+  },
+  {
+    "source": "audio/voice/ar/5.mp3",
+    "path": "yasmina-bundle/audio/voice/ar/5.mp3",
+    "bytes": 23541
+  },
+  {
+    "source": "audio/voice/en/6.mp3",
+    "path": "yasmina-bundle/audio/voice/en/6.mp3",
+    "bytes": 21813
+  },
+  {
+    "source": "audio/voice/ar/6.mp3",
+    "path": "yasmina-bundle/audio/voice/ar/6.mp3",
+    "bytes": 19917
+  },
+  {
+    "source": "ds/pdp/lite/specs-drawing.webp",
+    "path": "yasmina-bundle/images/specs-drawing.webp",
+    "bytes": 47922
+  },
+  {
+    "source": "ds/pdp/lite/story-ar-r1-purple.webp",
+    "path": "yasmina-bundle/images/story-ar-r1-purple.webp",
+    "bytes": 195612
+  },
+  {
+    "source": "ds/pdp/lite/homework-ar-g2-purple.webp",
+    "path": "yasmina-bundle/images/homework-ar-g2-purple.webp",
+    "bytes": 131872
+  },
+  {
+    "source": "ds/pdp/lite/quiet-ar-g1-purple.webp",
+    "path": "yasmina-bundle/images/quiet-ar-g1-purple.webp",
+    "bytes": 425128
+  }
+]

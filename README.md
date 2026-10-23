@@ -1,7 +1,13 @@
-# Yasmina bundle assets
+# Ресурсы для LPC
 
-Public media for the LPC replica, YASMINACREATIVE-122.
+Общий репозиторий публичных ресурсов лендингов. Для каждого сайта — отдельная папка с его названием.
 
-34 original media files from the supplied Yasmina Lite handoff. Images, audio and videos are retained unchanged. No source archives, credentials or internal discussions are included.
+```text
+lpc-assets/
+└── yasmina-bundle/
+    ├── images/
+    ├── video/
+    └── audio/
+```
 
-Use raw.githubusercontent.com URLs pinned to a commit. Changed media must receive a new filename.
+Изменённым материалам даём новые имена. В коде страниц используем прямые ссылки, закреплённые за коммитом.
