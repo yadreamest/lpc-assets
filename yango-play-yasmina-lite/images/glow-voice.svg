@@ -1,0 +1,13 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="2656" height="1887" viewBox="0 0 2656 1887" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse id="Background Glow &#226;&#128;&#148; Upper Left" cx="1328" cy="943.5" rx="1328" ry="943.5" fill="url(#paint0_radial_0_4)"/>
+<defs>
+<radialGradient id="paint0_radial_0_4" cx="0" cy="0" r="1" gradientTransform="matrix(1159.13 -440.487 620.054 823.444 1327.89 943.85)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5701AA" stop-opacity="0.46"/>
+<stop offset="0.18" stop-color="#5701AA" stop-opacity="0.38"/>
+<stop offset="0.39" stop-color="#400080" stop-opacity="0.26"/>
+<stop offset="0.63" stop-color="#400080" stop-opacity="0.116"/>
+<stop offset="0.84" stop-color="#400080" stop-opacity="0.027"/>
+<stop offset="1" stop-color="#400080" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
