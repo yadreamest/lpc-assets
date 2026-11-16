@@ -1,0 +1,24 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="392.37" height="53.592" viewBox="0 0 392.37 53.592" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Yasmina shadow">
+<ellipse id="Cast Shadow" cx="196.185" cy="26.796" rx="196.185" ry="26.796" fill="url(#paint0_radial_0_5)"/>
+<ellipse id="Contact Shadow" cx="109.097" cy="22.0112" rx="92.829" ry="12.441" fill="url(#paint1_radial_0_5)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_0_5" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(196.185 26.796) scale(196.185 26.796)">
+<stop stop-color="#05020B" stop-opacity="0.69"/>
+<stop offset="0.19" stop-color="#05020B" stop-opacity="0.62"/>
+<stop offset="0.43" stop-color="#05020B" stop-opacity="0.42"/>
+<stop offset="0.66" stop-color="#05020B" stop-opacity="0.21"/>
+<stop offset="0.84" stop-color="#05020B" stop-opacity="0.055"/>
+<stop offset="1" stop-color="#05020B" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint1_radial_0_5" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(109.097 22.0112) scale(92.829 12.441)">
+<stop stop-color="#05020B" stop-opacity="0.9"/>
+<stop offset="0.23" stop-color="#05020B" stop-opacity="0.77"/>
+<stop offset="0.46" stop-color="#05020B" stop-opacity="0.53"/>
+<stop offset="0.71" stop-color="#05020B" stop-opacity="0.22"/>
+<stop offset="0.88" stop-color="#05020B" stop-opacity="0.048"/>
+<stop offset="1" stop-color="#05020B" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
